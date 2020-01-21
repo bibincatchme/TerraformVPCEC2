@@ -47,6 +47,7 @@ UI input (only supports String variables)
 
 
 ============
+
 ec2-instance.tf
 resource "aws_key_pair" "terraform-demo" {
   key_name   = "terraform-demo"
